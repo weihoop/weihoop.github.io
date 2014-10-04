@@ -1,12 +1,12 @@
 markdown: rdiscount
 highlighter: true
 permalink: /:year/:month/:day/:title.html
-name: "rusty shutter"
+name: "System admin world!"
 markdown: rdiscount
 
-author: "wayne"
-atom-baseurl: "http://lhzhang.com"
-disqus: "gopherwood"
+author: "weihoop"
+atom-baseurl: "http://weihoop.com"
+disqus: "sysadmin"
 
 navigations:
   - title: Archive
@@ -20,7 +20,7 @@ navigations:
     href: /about.html
   - title: Gallery
     class: fa fa-film
-    href: http://foto.lhzhang.com
+    href: http://foto.weihoop.com
   - title: Blogroll
     class: fa fa-link
     href: /links.html
