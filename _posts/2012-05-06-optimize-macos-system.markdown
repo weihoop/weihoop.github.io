@@ -1,3 +1,10 @@
+---
+title: 'MAC OS X 系统优化'
+layout: post
+tags:
+    - macos
+---
+
 ####1. 安装brew
 Mac下打开Terminal, 复制并粘贴以下指令：
 ```shell
